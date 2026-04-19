@@ -8,6 +8,8 @@ on:
 jobs:
   check-for-updates: # Determines which updates to apply.
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     outputs:
       is-update-available: ${{ steps.check-for-updates.outputs.is-update-available }}
       new-tags: ${{ steps.check-for-updates.outputs.new-tags }}
