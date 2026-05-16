@@ -1,0 +1,137 @@
+Immutable Fact AI / The Real Bot — Proprietary License
+=======================================================
+
+Copyright (c) 2026 Carey James Balboa / IT Help San Diego Inc.
+All rights reserved.
+
+This repository ("Immutable Fact AI", also associated with the public work
+known as "The Real Bot Hasn't Been Built Yet") is a protected
+commercial / product-path asset of Carey James Balboa and IT Help San Diego
+Inc. It is published in a public GitHub repository so that the architecture,
+manifesto, and design rationale can be read, studied, and cited. It is NOT
+released under an open source license, an open content license (including
+Creative Commons CC BY or any other CC variant), an open weights license, or
+any permissive or copyleft license. No such license should be inferred from
+the fact that the repository is publicly visible.
+
+Absent a separate, signed, written agreement granting broader rights, the
+following terms apply:
+
+1. Permitted without prior written permission
+---------------------------------------------
+   a. Reading the repository contents for personal, educational, journalistic,
+      academic, or research purposes.
+   b. Quoting limited excerpts in commentary, criticism, news reporting,
+      teaching, scholarship, or research, consistent with customary norms
+      of fair use / fair dealing, provided that:
+        - the source is clearly attributed to
+          "Carey James Balboa / IT Help San Diego Inc.,
+           Immutable Fact AI / The Real Bot",
+        - a link or citation to this repository is included where practical,
+          and
+        - the excerpt is not used to imply endorsement of, or association
+          with, any third-party product, service, or system.
+   c. Academic / scholarly citation of the project, the manifesto, the
+      gap analysis, or the architectural design, using the metadata in
+      CITATION.cff.
+
+2. Requires prior written permission from Carey James Balboa /
+   IT Help San Diego Inc.
+---------------------------------------------------------------
+   The following uses are NOT granted by this file and require an explicit,
+   signed, written agreement from the copyright holder before being
+   undertaken:
+
+   a. Commercial use of any kind, including but not limited to:
+        - integrating any portion of this repository, its concepts, its
+          truth-class taxonomy, its foundation-gated answer flow, or its
+          identifying brand terms ("Immutable Fact AI", "The Real Bot",
+          "Scholar Bot" as used in the manifesto) into a commercial product,
+          service, SaaS offering, API, paid model, or paid feature;
+        - using the repository, manifesto, or gap analysis as the basis,
+          blueprint, or specification for a competing commercial system;
+        - reselling, sublicensing, or redistributing the repository or
+          substantial portions of it.
+
+   b. Creation and distribution of derivative works, including but not
+      limited to:
+        - forks intended for production, commercial, or public-service use
+          (as opposed to private study, personal experimentation, or a
+          good-faith pull request back to this repository);
+        - modified versions of the manifesto, gap analysis, or architectural
+          design documents;
+        - translations, adaptations, or republications presented as
+          standalone works rather than commentary on the original.
+
+   c. Use of any content in this repository as training data, fine-tuning
+      data, evaluation data, retrieval corpus, embedding source, or other
+      input to train, fine-tune, align, evaluate, or otherwise improve any
+      machine learning model, AI system, or automated content-generation
+      system, whether commercial or non-commercial. The act of publishing
+      this repository publicly is NOT consent to be ingested into model
+      training pipelines.
+
+   d. Product implementation of the design described herein — i.e.,
+      building a deployed AI system, agent, assistant, scholar bot, or
+      "real bot" that materially implements the architecture, truth
+      classes, or foundation-gated answer pipeline described in this
+      repository — under any name, branding, or implementation.
+
+   e. Use of the names, marks, or identifying phrases associated with this
+      work ("Immutable Fact AI", "The Real Bot", "Carey James Balboa",
+      "IT Help San Diego") in a manner that implies endorsement,
+      affiliation, partnership, or origin, without a separate written
+      trademark / branding permission.
+
+3. Contributions
+-----------------
+   Pull requests and contributions, if accepted, are accepted on the
+   understanding that the contributor grants Carey James Balboa /
+   IT Help San Diego Inc. a perpetual, worldwide, royalty-free license to
+   use, modify, sublicense, and incorporate the contribution into this
+   repository and any successor commercial product, and that the
+   contribution does not by itself convert any portion of this repository
+   to an open source or open content license.
+
+4. No warranty
+---------------
+   The contents of this repository are provided "AS IS", without warranty
+   of any kind, express or implied, including but not limited to the
+   warranties of merchantability, fitness for a particular purpose,
+   non-infringement, or accuracy. In no event shall the authors or
+   copyright holders be liable for any claim, damages, or other liability,
+   whether in an action of contract, tort, or otherwise, arising from, out
+   of, or in connection with the contents or the use of or other dealings
+   with them.
+
+5. How to request permission
+-----------------------------
+   To request a written license for any use that falls outside section 1,
+   contact:
+
+     Carey James Balboa
+     IT Help San Diego Inc.
+     security@it-help.tech
+     (Subject: "License request — Immutable Fact AI / The Real Bot")
+
+   Requests should describe the proposed use, the parties involved, the
+   commercial context (if any), and the scope and duration requested.
+
+6. Non-legal-advice notice
+---------------------------
+   This file is a license / use-policy declaration written by the
+   copyright holder. It is not legal advice. It does not create an
+   attorney-client relationship. Parties seeking to rely on, interpret, or
+   negotiate around these terms should obtain their own qualified legal
+   counsel. Where any provision of this file is held unenforceable in a
+   given jurisdiction, the remaining provisions remain in effect to the
+   maximum extent permitted by law.
+
+7. Relationship to "The Real Bot" public writing
+-------------------------------------------------
+   The public-facing essay / manifesto "The Real Bot Hasn't Been Built
+   Yet" by Carey James Balboa may be read and cited under the same terms
+   as section 1 of this file. Republication in full, commercial reuse,
+   inclusion in training corpora, or use as the basis of a competing
+   commercial product is covered by section 2 and requires written
+   permission.

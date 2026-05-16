@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: >-
+  If you reference, cite, or discuss Immutable Fact AI or "The Real Bot
+  Hasn't Been Built Yet" in academic, journalistic, educational, or
+  critical work, please cite this repository and credit
+  Carey James Balboa / IT Help San Diego Inc. Citation with attribution
+  is permitted; commercial reuse, derivative works, ingestion into model
+  training data, and product implementation require prior written
+  permission. See LICENSE and NOTICE.md.
+title: "Immutable Fact AI / The Real Bot Hasn't Been Built Yet"
+abstract: >-
+  Immutable Fact AI is an architectural and product-path effort to build a
+  foundation-gated, citation-disciplined AI system that classifies every
+  admitted statement by truth class (formal proof, definition, standard,
+  measured constant, observed fact, consensus model, theory, hypothesis,
+  claim, generated speculation) and refuses to launder generated text into
+  fact. The companion public manifesto, "The Real Bot Hasn't Been Built
+  Yet", argues that current generative AI systems are mislabeled "Scholar
+  Bots" when they are in fact "Creative Bots", and specifies what a real
+  scholar-grade AI system would have to do. This repository is a
+  protected commercial / product-path asset, not open source.
+type: software
+authors:
+  - family-names: Balboa
+    given-names: Carey James
+    affiliation: IT Help San Diego Inc.
+    email: security@it-help.tech
+repository-code: "https://github.com/IT-Help-San-Diego/immutable-fact-ai"
+url: "https://github.com/IT-Help-San-Diego/immutable-fact-ai"
+license-url: "https://github.com/IT-Help-San-Diego/immutable-fact-ai/blob/main/LICENSE"
+keywords:
+  - immutable-fact-ai
+  - the-real-bot
+  - scholar-bot
+  - foundation-gated-reasoning
+  - verified-ai
+  - truth-classification
+  - provenance
+  - formal-verification
+  - lean
+  - rocq
+  - rfc
+  - nist
+  - bipm
+  - codata
+  - ai-policy
+  - ai-governance
+preferred-citation:
+  type: generic
+  title: "Immutable Fact AI / The Real Bot Hasn't Been Built Yet"
+  authors:
+    - family-names: Balboa
+      given-names: Carey James
+      affiliation: IT Help San Diego Inc.
+  year: 2026
+  url: "https://github.com/IT-Help-San-Diego/immutable-fact-ai"
+  notes: >-
+    Public reading and citation with attribution are permitted under the
+    terms in LICENSE. Commercial reuse, derivative works, use as training
+    or evaluation data for machine learning systems, and product
+    implementation require prior written permission from Carey James
+    Balboa / IT Help San Diego Inc. This citation metadata is provided
+    for scholarly attribution and does not by itself grant any additional
+    rights beyond those in LICENSE and NOTICE.md.
