@@ -163,6 +163,39 @@ Speculation is allowed.
 
 But none of them are allowed to masquerade as fact.
 
+## Licensing, citation, and provenance
+
+This repository is a **protected commercial / product-path asset** of
+**Carey James Balboa / IT Help San Diego Inc.** It is public so it can
+be **read and cited**, not because it is open source.
+
+- **No open license is granted.** This repository is **not** released
+  under any OSI-approved open source license, Creative Commons CC BY (or
+  any CC variant), or open weights / open model license. Default posture
+  is **all rights reserved**.
+- **Reading and scholarly citation are permitted** with clear attribution
+  to *Carey James Balboa / IT Help San Diego Inc., Immutable Fact AI /
+  The Real Bot*. Citation metadata lives in [`CITATION.cff`](CITATION.cff).
+- **Commercial reuse, derivative works, ingestion into AI/ML training,
+  fine-tuning, evaluation, or retrieval corpora, and product
+  implementation require prior written permission** from Carey James
+  Balboa / IT Help San Diego Inc. Public posting on GitHub is **not**
+  consent to be scraped into model training pipelines.
+- The companion public work, the manifesto **"The Real Bot Hasn't Been
+  Built Yet"**, falls under the same posture: public reading and
+  citation with attribution are fine; republication in full, commercial
+  reuse, training-data use, or use as the basis for a competing
+  commercial product require written permission.
+
+Authoritative terms: [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md).
+To request a license, contact
+[security@it-help.tech](mailto:security@it-help.tech) with subject
+*License request — Immutable Fact AI / The Real Bot*.
+
+This section is a policy declaration by the copyright holder and is **not
+legal advice**. Parties relying on these terms should obtain their own
+qualified legal counsel.
+
 ## Reference anchors
 
 - [Open Source Initiative: Open Source AI Definition](https://opensource.org/ai/open-source-ai-definition)
